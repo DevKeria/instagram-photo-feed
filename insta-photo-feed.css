@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(247, 231, 217);
+    
+}
+
+
+.insta-feed {
+    
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    
+}
+
+.header { 
+    
+    padding: 20px;
+    margin-bottom: 7%;
+}
+
+.first-post {
+    background-color: white;
+    text-align: center;
+}
+
+
+    
+.first-post-text {
+   display: flex;
+   justify-content:space-around;
+   
+
+}
