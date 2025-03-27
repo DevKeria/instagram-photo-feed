@@ -21,6 +21,9 @@ img {
 
 .header { 
     background-color: white;
+    padding: 10px 20px;
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 
