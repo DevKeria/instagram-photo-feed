@@ -13,15 +13,28 @@ body {
     
 }
 
-.header { 
-    
-    padding: 20px;
-    margin-bottom: 7%;
+img {
+    width: 500px;
+    height:500px;
 }
+ 
+
+.header { 
+    background-color: white;
+}
+
+
+
 
 .first-post {
     background-color: white;
-    text-align: center;
+    height: 500px;
+    width: 500px;
+    
+}
+
+.grey-text {
+    color:gray;
 }
 
 
